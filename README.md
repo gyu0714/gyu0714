@@ -1,16 +1,22 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyu0714&show_icons=true&theme=radical)
+<div align="center">
+<br><br><br>
 
-<!--
-**gyu0714/gyu0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Gyu.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br>
+
+<!-- gyu0714's profile -->
+ 
+
+<!--     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyu0714&show_icons=true&theme=radical) -->
+<p>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gyu0714&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyu0714&layout=compact&show_icons=true&theme=radical>
+</p>
+
+  
+<br><br><br>
+  
